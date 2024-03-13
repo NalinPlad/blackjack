@@ -1,0 +1,8 @@
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/blackjack/target/debug/deps/libowned_ttf_parser-2d07d7437a28dee2.rmeta: /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/convert.rs /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/owned.rs /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/preparse.rs
+
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/blackjack/target/debug/deps/owned_ttf_parser-2d07d7437a28dee2.d: /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/convert.rs /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/owned.rs /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/preparse.rs
+
+/Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/lib.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/convert.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/owned.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.20.0/src/preparse.rs:
