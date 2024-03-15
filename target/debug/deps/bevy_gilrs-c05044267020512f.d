@@ -1,8 +1,0 @@
-/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/blackjack/target/debug/deps/libbevy_gilrs-c05044267020512f.rmeta: /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_gilrs-0.13.0/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_gilrs-0.13.0/src/converter.rs /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_gilrs-0.13.0/src/gilrs_system.rs /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_gilrs-0.13.0/src/rumble.rs
-
-/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/blackjack/target/debug/deps/bevy_gilrs-c05044267020512f.d: /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_gilrs-0.13.0/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_gilrs-0.13.0/src/converter.rs /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_gilrs-0.13.0/src/gilrs_system.rs /Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_gilrs-0.13.0/src/rumble.rs
-
-/Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_gilrs-0.13.0/src/lib.rs:
-/Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_gilrs-0.13.0/src/converter.rs:
-/Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_gilrs-0.13.0/src/gilrs_system.rs:
-/Users/ajitharaiza-singh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_gilrs-0.13.0/src/rumble.rs:
